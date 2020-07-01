@@ -1,0 +1,1 @@
+OpenCV Implementation of Viola-Jones Face Detection Algorithm.
